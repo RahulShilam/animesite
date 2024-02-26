@@ -1,0 +1,22 @@
+.main {
+}
+.main form {
+  /* border: 1px solid yellow; */
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  /* grid-template-rows: repeat(1, fr); */
+  row-gap: 10px;
+  /* justify-content: center; */
+  padding: 10px;
+}
+.aligndivs {
+  /* margin: 20px 0 20px 0; */
+}
+.main label {
+  font-weight: bold;
+  /* padding: 10px; */
+  /* width: 20%; */
+}
+.main input {
+  width: 300px;
+}

@@ -1,0 +1,17 @@
+.main {
+  width: 250px;
+  height: auto;
+  position: absolute;
+  background: white;
+  color: black;
+  left: 20.5%;
+  zindex: 1;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+.link:hover {
+  color: red;
+  font-weight: bold;
+}
